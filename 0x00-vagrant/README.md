@@ -1,1 +1,1 @@
-# HolbertonSchool-zero_day
+This is a mandotory file
